@@ -1,7 +1,6 @@
 import streamlit as st
 import base64
 import pandas as pd
-import yfinance as ss
 from PIL import Image
 from streamlit_lottie import st_lottie
 import requests
