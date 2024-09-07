@@ -1,0 +1,36 @@
+
+
+img {
+  border: 2px solid #ff4040;
+  border-radius: 4px;
+  padding: 5px;
+  width: 300px;
+  }
+
+
+  /* main file ka css */
+  .big-font {
+    font-size:60px !important;
+    color: #ff963f;
+    
+  }
+
+  p{
+    font-size: 30px !important;
+
+  }
+
+  strong{
+    font-size: 70px !important;
+    color: #ff963f;
+  }
+  
+  em{
+    font-size: 30px !important;
+    color: #fcff37;
+    
+  }
+  
+
+
+   
